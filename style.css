@@ -65,3 +65,7 @@ padding: 3px 3px 3px;
 margin: 0px 10px 0px;
 border: 2px solid gray;
 }
+
+.label{
+  background-color: #26DEDE !important;
+}
