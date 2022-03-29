@@ -2,35 +2,36 @@ body {
   margin: auto;
 }
 
-.navbar, .navbar-default {
-	border-radius: 0;
-	border: none;
+.navbar,
+.navbar-default {
+  border-radius: 0;
+  border: none;
   position: fixed;
-	margin-bottom: 10;
-	min-height: 60px;
-} 
+  margin-bottom: 10;
+  min-height: 60px;
+}
 
 .nav li {
-	display: inline;
-	color: white;
-	//background-color: gray;
+  display: inline;
+  color: white;
+  //background-color: gray;
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: black;
-	font-family: Lato;
-	font-size: 2.7em;
-	font-weight: 500;
-	padding: 30px 25px 33px 25px;
-	height: 90px;
+  color: black;
+  font-family: Lato;
+  font-size: 2.7em;
+  font-weight: 500;
+  padding: 30px 25px 33px 25px;
+  height: 90px;
 }
 
 .navbar-default .navbar-nav li a:hover {
-	background-color: white;
-	transition: 0.6s all linear;
-	/* height: 100%; */
+  background-color: white;
+  transition: 0.6s all linear;
+  /* height: 100%; */
 }
-  .box {
+.box {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -43,7 +44,23 @@ body {
   color: #fff;
 }
 
-.full{
-      width: 100%;
-      height: 16rem;
-    }
+.full {
+  width: 100%;
+  height: 16rem;
+}
+
+.full_img {
+  width: 100%;
+  height: 10rem;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2 !important;
+}
+
+.padding_img
+{
+width:350px;
+height:350px;
+padding: 3px 3px 3px;
+border: 2px solid gray;
+}
