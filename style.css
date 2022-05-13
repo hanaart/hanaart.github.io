@@ -39,12 +39,12 @@ border: 2px solid gray;
 
 .navbar-brand {
     float: left;
-    height: 50px;
-    padding: 15px 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
-    padding-left: 15px;
+    height: 55px;
+    padding: 7px 7px;
+    padding-top: 7px;
+    padding-right: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
     font-size: 18px;
     line-height: 20px;
 
