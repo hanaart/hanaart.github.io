@@ -37,6 +37,14 @@ margin: 0px 10px 0px;
 border: 2px solid gray;
 }
 
+.navbar-brand {
+    float: left;
+    height: 55px;
+    padding: 7px 7px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
 .label{
   background-color: #26DEDE !important;
 }
