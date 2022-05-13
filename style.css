@@ -52,4 +52,10 @@ img {
     object-fit: contain;
 }
 
-.navbar-nav>li float: left .navbar-header float: left .navbar-right float: right!important
+.navbar-brand {
+    float: left;
+    height: 55px;
+    padding: 7px 7px;
+    font-size: 18px;
+    line-height: 20px;
+}
