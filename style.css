@@ -39,11 +39,14 @@ border: 2px solid gray;
 
 .navbar-brand {
     float: left;
-    height: 55px;
-    padding: 7px 7px;
+    height: 50px;
+    padding: 15px 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
     font-size: 18px;
     line-height: 20px;
-}
 
 .label{
   background-color: #26DEDE !important;
