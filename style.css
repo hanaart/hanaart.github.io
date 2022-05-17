@@ -52,6 +52,7 @@ img {
     object-fit: contain;
 }
 
-.container-fluid{
-	padding-top:25px;
+.slide{
+    padding-top:54px;
+    padding-bottom:3px;
 }
