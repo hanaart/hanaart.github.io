@@ -56,3 +56,10 @@ img {
     padding-top:54px;
     padding-bottom:3px;
 }
+
+.nav {
+    width: 90%;
+    float: right;
+    max-height: 65px;
+    min-width: 680px
+ } 
