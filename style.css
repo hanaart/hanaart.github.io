@@ -57,9 +57,11 @@ img {
     padding-bottom:3px;
 }
 
-.nav {
-    width: 90%;
-    float: right;
-    max-height: 65px;
-    min-width: 680px
- } 
+
+.navbar-nav {
+    display: inline-block;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+}
