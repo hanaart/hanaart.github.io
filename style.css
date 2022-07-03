@@ -56,3 +56,9 @@ img {
     padding-top:54px;
     padding-bottom:3px;
 }
+
+.navbar li a {
+   margin-top: -7px;
+}
+
+
