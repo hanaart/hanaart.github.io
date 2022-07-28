@@ -57,15 +57,13 @@ img {
     padding-bottom:3px;
 }
 
-.navbar-collapse {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
+.navbar-collapse.collapse {
+    transition: height 0.2s;
 }
-.navbar-collapse.collapse.show {
-    height: 100vh;
+.navbar-collapse.collapsing {
+    height: 0 !important;
 }
-.navbar-nav {
-    height: 100vh;
+.navbar-collapse.collapse.in {
+    max-height: none;
+    height: 65vh;
 }
