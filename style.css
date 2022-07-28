@@ -57,8 +57,15 @@ img {
     padding-bottom:3px;
 }
 
-.navbar li a {
-   margin-top: -7px;
+.navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
-
-
+.navbar-collapse.collapse.show {
+    height: 100vh;
+}
+.navbar-nav {
+    height: 100vh;
+}
