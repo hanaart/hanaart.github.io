@@ -67,3 +67,7 @@ img {
     max-height: none;
     height: 65vh;
 }
+
+.navbar li a {
+  padding: 9px;
+}
